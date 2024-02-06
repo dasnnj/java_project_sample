@@ -1,0 +1,3 @@
+com.jay.springspi.logger.LoggerForSpringSpi=\
+  com.jay.springspi.logger.LoggerC, \
+  com.jay.springspi.logger.LoggerD

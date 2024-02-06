@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="springspi:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8419ffa-c4d4-4f6a-94c5-06fa2424e14a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="K:\.m2\repository" />
+        <option name="userSettingsFile" value="K:\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2aPSxeYJfI5zICMk2kgyDd7fTpp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.JdkSpi.executor": "Debug",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SpringSpi.executor": "Run",
+    "Application.StreamToList.executor": "Run",
+    "Application.TestSequenceCollection.executor": "Run",
+    "Application.TestSwitch.executor": "Run",
+    "Application.com.jay.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "graalvm-jdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "K:/projects/sample/mysql-connector-java-6.0.6.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "K:/projects/sample/reference/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\projects\sample\spitest\src" />
+      <recent name="K:\projects\sample\spitest\META-INF\a" />
+      <recent name="K:\projects\sample\spitest\META-INF" />
+      <recent name="K:\projects\sample\sample" />
+      <recent name="K:\projects\sample\reference\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jay.springspi.logger" />
+      <recent name="com.jay.spi" />
+      <recent name="com.jay" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JdkSpi">
+    <configuration name="JdkSpi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jay.base.JdkSpi" />
+      <module name="sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jay.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSpi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jay.springspi.logger.SpringSpi" />
+      <module name="springspi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jay.springspi.logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSequenceCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jay.TestSequenceCollection" />
+      <module name="sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jay.base.TestSwitch" />
+      <module name="sample" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintFlagsFinal -version" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jay.base.constant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.jay.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jay.Main" />
+      <module name="module.reference" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringspiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springspi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jay.springspi.SpringspiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.com.jay.Main" />
+      <item itemvalue="Application.JdkSpi" />
+      <item itemvalue="Application.SpringSpi" />
+      <item itemvalue="Application.TestSequenceCollection" />
+      <item itemvalue="Application.TestSwitch" />
+      <item itemvalue="Spring Boot.SpringspiApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JdkSpi" />
+        <item itemvalue="Application.TestSwitch" />
+        <item itemvalue="Application.SpringSpi" />
+        <item itemvalue="Application.com.jay.Main" />
+        <item itemvalue="Application.TestSequenceCollection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-graalvm-jdk-17.0.9-f644763e9732-ba762f68" />
+        <option value="jdk-21.0.1-graalvm-jdk-21.0.1-f644763e9732-a49dddad" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+        <option value="jdk-21.0.2-graalvm-jdk-21.0.2-f644763e9732-2dd1e1c6" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Jay\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8419ffa-c4d4-4f6a-94c5-06fa2424e14a" name="Changes" comment="" />
+      <created>1704218970196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704218970196</updated>
+      <workItem from="1704218971361" duration="637000" />
+      <workItem from="1704219697253" duration="126000" />
+      <workItem from="1704219848755" duration="383000" />
+      <workItem from="1704220243065" duration="101000" />
+      <workItem from="1704220458976" duration="180000" />
+      <workItem from="1704249959544" duration="1206000" />
+      <workItem from="1704298172231" duration="574000" />
+      <workItem from="1704298753188" duration="276000" />
+      <workItem from="1704299054527" duration="282000" />
+      <workItem from="1704299347834" duration="52000" />
+      <workItem from="1704383288296" duration="2161000" />
+      <workItem from="1704465333949" duration="854000" />
+      <workItem from="1704812845121" duration="3677000" />
+      <workItem from="1704887198732" duration="603000" />
+      <workItem from="1704978443687" duration="5146000" />
+      <workItem from="1704995268066" duration="114000" />
+      <workItem from="1704995438082" duration="87000" />
+      <workItem from="1704995535432" duration="286000" />
+      <workItem from="1704995828988" duration="623000" />
+      <workItem from="1705751782561" duration="7255000" />
+      <workItem from="1705762938717" duration="2865000" />
+      <workItem from="1705812750624" duration="3379000" />
+      <workItem from="1706109408568" duration="2412000" />
+      <workItem from="1706111830189" duration="989000" />
+      <workItem from="1706113149814" duration="514000" />
+      <workItem from="1706113702151" duration="146000" />
+      <workItem from="1706113859420" duration="141000" />
+      <workItem from="1706321412104" duration="608000" />
+      <workItem from="1706544240439" duration="5590000" />
+      <workItem from="1706799750482" duration="3316000" />
+      <workItem from="1706973759758" duration="2047000" />
+      <workItem from="1707022258909" duration="6569000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>418</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>414</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>1299</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>1397</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>1383</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>1366</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>1454</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>1008</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>1136</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>1188</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jay/base/JdkSpi.java</url>
+          <line>7</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>413</line>
+          <properties field="lookupIterator1" class="java.util.ServiceLoader" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar://$PROJECT_DIR$/../../../JDK/graalvm-jdk-21.0.2/lib/src.zip!/java.base/java/util/ServiceLoader.java</url>
+          <line>419</line>
+          <properties field="loadedAllProviders" class="java.util.ServiceLoader" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.ServiceLoader$3" memberName="index" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

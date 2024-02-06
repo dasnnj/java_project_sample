@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spitest:jar">
+    <output-path>$PROJECT_DIR$/../out/artifacts/spitest_jar</output-path>
+    <root id="archive" name="spitest.jar">
+      <element id="module-output" name="spitest" />
+    </root>
+  </artifact>
+</component>
